@@ -1,16 +1,21 @@
-### Hi there 👋
-![Github Commits](https://github.com/jcardonne/jcardonne/blob/output/github-contribution-grid-snake.svg)
-<!--
-**jcardonne/jcardonne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# Hey, I'm Jean 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Developer & music producer.
+
+[🌐 strayder.io](https://strayder.io) · [🔨 gitchef](https://github.com/jcardonne/gitchef) · [📫 Email](mailto:cardonne.music@gmail.com)
+
+</div>
+
+---
+
+### 🔨 Current focus
+
+**[gitchef](https://github.com/jcardonne/gitchef)** - open-source visual Git client. Fast, native, and cross-platform.
+
+### 📊 Activity
+
+<div align="center">
+  <img src="github-metrics.svg" alt="GitHub metrics" width="100%">
+</div>
